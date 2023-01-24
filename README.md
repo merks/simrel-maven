@@ -13,7 +13,7 @@ The generator copies the *.target file from each project, and extracts the Maven
 It consults the metadata available at Maven central for any available updated versions of each of those dependencies.
 From that information, it generates a report and, in addition, generates an updated *.target file with any available minor version updates.
 
-The generator can also generate a merged *.target file from as set of *.target inputs.
+The generator can also generate a merged *.target file from a set of *.target inputs.
 In this case, in addition to the above inputs, it also uses this supplementary input:
 
 - [supplement](supplement/REPORT.md)
