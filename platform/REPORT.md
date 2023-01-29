@@ -7,8 +7,6 @@
     - [jackson-databind](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/) **[2.14.1](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.1)** < [2.14.2](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.2/)
  - [org.apache.felix](https://repo1.maven.org/maven2/org/apache/felix/)
     - [org.apache.felix.scr](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/) **[2.2.4](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/2.2.4)** < [2.2.6](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/2.2.6/)
- - [org.assertj](https://repo1.maven.org/maven2/org/assertj/)
-    - [assertj-core](https://repo1.maven.org/maven2/org/assertj/assertj-core/) **[3.24.1](https://repo1.maven.org/maven2/org/assertj/assertj-core/3.24.1)** < [3.24.2](https://repo1.maven.org/maven2/org/assertj/assertj-core/3.24.2/)
 
 ## Major Updates
  - [jakarta.el](https://repo1.maven.org/maven2/jakarta/el/)
@@ -79,7 +77,7 @@
  - [org.apiguardian](https://repo1.maven.org/maven2/org/apiguardian/)
     - [apiguardian-api](https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/) **[1.1.2](https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2)**
  - [org.assertj](https://repo1.maven.org/maven2/org/assertj/)
-    - [assertj-core](https://repo1.maven.org/maven2/org/assertj/assertj-core/) **[3.24.1](https://repo1.maven.org/maven2/org/assertj/assertj-core/3.24.1)**
+    - [assertj-core](https://repo1.maven.org/maven2/org/assertj/assertj-core/) **[3.24.2](https://repo1.maven.org/maven2/org/assertj/assertj-core/3.24.2)**
  - [org.bouncycastle](https://repo1.maven.org/maven2/org/bouncycastle/)
     - [bcpg-jdk18on](https://repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/) **[1.72.2](https://repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.72.2)**
     - [bcprov-jdk18on](https://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/) **[1.72](https://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.72)**
