@@ -1,12 +1,10 @@
 # Target Platform: [platform](https://raw.githubusercontent.com/eclipse-platform/eclipse.platform.releng.aggregator/master/eclipse.platform.releng.prereqs.sdk/eclipse-sdk-prereqs.target)
 
 ## Minor Updates
- - [com.fasterxml.jackson.core](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/)
-    - [jackson-annotations](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/) **[2.14.1](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.1)** < [2.14.2](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.2/)
-    - [jackson-core](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/) **[2.14.1](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.1)** < [2.14.2](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.2/)
-    - [jackson-databind](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/) **[2.14.1](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.1)** < [2.14.2](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.2/)
  - [org.apache.felix](https://repo1.maven.org/maven2/org/apache/felix/)
     - [org.apache.felix.scr](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/) **[2.2.4](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/2.2.4)** < [2.2.6](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/2.2.6/)
+ - [org.mockito](https://repo1.maven.org/maven2/org/mockito/)
+    - [mockito-core](https://repo1.maven.org/maven2/org/mockito/mockito-core/) **[5.0.0](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.0.0)** < [5.1.0](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.1.0/)
 
 ## Major Updates
  - [jakarta.el](https://repo1.maven.org/maven2/jakarta/el/)
@@ -36,9 +34,9 @@
     - [biz.aQute.bnd.util](https://repo1.maven.org/maven2/biz/aQute/bnd/biz.aQute.bnd.util/) **[6.4.0](https://repo1.maven.org/maven2/biz/aQute/bnd/biz.aQute.bnd.util/6.4.0)**
     - [biz.aQute.bndlib](https://repo1.maven.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/) **[6.4.0](https://repo1.maven.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/6.4.0)**
  - [com.fasterxml.jackson.core](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/)
-    - [jackson-annotations](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/) **[2.14.1](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.1)**
-    - [jackson-core](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/) **[2.14.1](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.1)**
-    - [jackson-databind](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/) **[2.14.1](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.1)**
+    - [jackson-annotations](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/) **[2.14.2](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.2)**
+    - [jackson-core](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/) **[2.14.2](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.2)**
+    - [jackson-databind](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/) **[2.14.2](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.2)**
  - [com.google.code.gson](https://repo1.maven.org/maven2/com/google/code/gson/)
     - [gson](https://repo1.maven.org/maven2/com/google/code/gson/gson/) **[2.10.1](https://repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1)**
  - [com.ibm.icu](https://repo1.maven.org/maven2/com/ibm/icu/)
