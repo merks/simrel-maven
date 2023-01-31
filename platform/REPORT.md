@@ -1,10 +1,8 @@
 # Target Platform: [platform](https://raw.githubusercontent.com/eclipse-platform/eclipse.platform.releng.aggregator/master/eclipse.platform.releng.prereqs.sdk/eclipse-sdk-prereqs.target)
 
 ## Minor Updates
- - [org.apache.felix](https://repo1.maven.org/maven2/org/apache/felix/)
-    - [org.apache.felix.scr](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/) **[2.2.4](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/2.2.4)** < [2.2.6](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/2.2.6/)
  - [org.mockito](https://repo1.maven.org/maven2/org/mockito/)
-    - [mockito-core](https://repo1.maven.org/maven2/org/mockito/mockito-core/) **[5.0.0](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.0.0)** < [5.1.0](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.1.0/)
+    - [mockito-core](https://repo1.maven.org/maven2/org/mockito/mockito-core/) **[5.0.0](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.0.0)** < [5.1.1](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.1.1/)
 
 ## Major Updates
  - [jakarta.el](https://repo1.maven.org/maven2/jakarta/el/)
@@ -69,7 +67,7 @@
     - [org.apache.felix.gogo.command](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.gogo.command/) **[1.1.2](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.gogo.command/1.1.2)**
     - [org.apache.felix.gogo.runtime](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.gogo.runtime/) **[1.1.6](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.gogo.runtime/1.1.6)**
     - [org.apache.felix.gogo.shell](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.gogo.shell/) **[1.1.4](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.gogo.shell/1.1.4)**
-    - [org.apache.felix.scr](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/) **[2.2.4](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/2.2.4)**
+    - [org.apache.felix.scr](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/) **[2.2.6](https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.scr/2.2.6)**
  - [org.apache.sshd](https://repo1.maven.org/maven2/org/apache/sshd/)
     - [sshd-osgi](https://repo1.maven.org/maven2/org/apache/sshd/sshd-osgi/) **[2.9.2](https://repo1.maven.org/maven2/org/apache/sshd/sshd-osgi/2.9.2)**
  - [org.apiguardian](https://repo1.maven.org/maven2/org/apiguardian/)

@@ -78,6 +78,8 @@
     - [javax.el](https://repo1.maven.org/maven2/org/glassfish/javax.el/) **[3.0.0](https://repo1.maven.org/maven2/org/glassfish/javax.el/3.0.0)**
  - [org.glassfish.web](https://repo1.maven.org/maven2/org/glassfish/web/)
     - [javax.servlet.jsp](https://repo1.maven.org/maven2/org/glassfish/web/javax.servlet.jsp/) **[2.3.4](https://repo1.maven.org/maven2/org/glassfish/web/javax.servlet.jsp/2.3.4)**
+ - [org.jruby.joni](https://repo1.maven.org/maven2/org/jruby/joni/)
+    - [joni](https://repo1.maven.org/maven2/org/jruby/joni/joni/) **[2.1.46](https://repo1.maven.org/maven2/org/jruby/joni/joni/2.1.46)**
  - [org.jsoup](https://repo1.maven.org/maven2/org/jsoup/)
     - [jsoup](https://repo1.maven.org/maven2/org/jsoup/jsoup/) **[1.15.3](https://repo1.maven.org/maven2/org/jsoup/jsoup/1.15.3)**
  - [org.junit.jupiter](https://repo1.maven.org/maven2/org/junit/jupiter/)
@@ -96,7 +98,7 @@
  - [org.junit.vintage](https://repo1.maven.org/maven2/org/junit/vintage/)
     - [junit-vintage-engine](https://repo1.maven.org/maven2/org/junit/vintage/junit-vintage-engine/) **[5.9.2](https://repo1.maven.org/maven2/org/junit/vintage/junit-vintage-engine/5.9.2)**
  - [org.mockito](https://repo1.maven.org/maven2/org/mockito/)
-    - [mockito-core](https://repo1.maven.org/maven2/org/mockito/mockito-core/) **[5.1.0](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.1.0)**
+    - [mockito-core](https://repo1.maven.org/maven2/org/mockito/mockito-core/) **[5.1.1](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.1.1)**
  - [org.objenesis](https://repo1.maven.org/maven2/org/objenesis/)
     - [objenesis](https://repo1.maven.org/maven2/org/objenesis/objenesis/) **[3.3](https://repo1.maven.org/maven2/org/objenesis/objenesis/3.3)**
  - [org.opentest4j](https://repo1.maven.org/maven2/org/opentest4j/)
