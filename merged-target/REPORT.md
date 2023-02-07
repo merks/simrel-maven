@@ -78,8 +78,6 @@
     - [javax.el](https://repo1.maven.org/maven2/org/glassfish/javax.el/) **[3.0.0](https://repo1.maven.org/maven2/org/glassfish/javax.el/3.0.0)**
  - [org.glassfish.web](https://repo1.maven.org/maven2/org/glassfish/web/)
     - [javax.servlet.jsp](https://repo1.maven.org/maven2/org/glassfish/web/javax.servlet.jsp/) **[2.3.4](https://repo1.maven.org/maven2/org/glassfish/web/javax.servlet.jsp/2.3.4)**
- - [org.jruby.joni](https://repo1.maven.org/maven2/org/jruby/joni/)
-    - [joni](https://repo1.maven.org/maven2/org/jruby/joni/joni/) **[2.1.47](https://repo1.maven.org/maven2/org/jruby/joni/joni/2.1.47)**
  - [org.jsoup](https://repo1.maven.org/maven2/org/jsoup/)
     - [jsoup](https://repo1.maven.org/maven2/org/jsoup/jsoup/) **[1.15.3](https://repo1.maven.org/maven2/org/jsoup/jsoup/1.15.3)**
  - [org.junit.jupiter](https://repo1.maven.org/maven2/org/junit/jupiter/)

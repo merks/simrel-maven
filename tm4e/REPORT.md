@@ -2,7 +2,7 @@
 
 ## Minor Updates
  - [org.jruby.joni](https://repo1.maven.org/maven2/org/jruby/joni/)
-    - [joni](https://repo1.maven.org/maven2/org/jruby/joni/joni/) **[2.1.45](https://repo1.maven.org/maven2/org/jruby/joni/joni/2.1.45)** < [2.1.47](https://repo1.maven.org/maven2/org/jruby/joni/joni/2.1.47/)
+    - [joni](https://repo1.maven.org/maven2/org/jruby/joni/joni/) **[2.1.45](https://repo1.maven.org/maven2/org/jruby/joni/joni/2.1.45)** < [2.1.48](https://repo1.maven.org/maven2/org/jruby/joni/joni/2.1.48/)
 
 ## Updates Applied
 [updated.target](updated.target)
