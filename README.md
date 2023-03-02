@@ -7,6 +7,7 @@ The following reports are generated from the target platform files of the corres
 - [m2e](m2e/REPORT.md)
 - [platform](platform/REPORT.md)
 - [tm4e](tm4e/REPORT.md)
+- [wildweb](wwd/REPORT.md)
 - [windowbuilder](windowbuilder/REPORT.md)
 
 The generator copies the *.target file from each project, and extracts the Maven dependencies from each.
