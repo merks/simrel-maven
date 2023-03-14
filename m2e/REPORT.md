@@ -7,6 +7,8 @@
     - [gson](https://repo1.maven.org/maven2/com/google/code/gson/gson/) **[2.9.1](https://repo1.maven.org/maven2/com/google/code/gson/gson/2.9.1)** < [2.10.1](https://repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/)
  - [commons-cli](https://repo1.maven.org/maven2/commons-cli/)
     - [commons-cli](https://repo1.maven.org/maven2/commons-cli/commons-cli/) **[1.4](https://repo1.maven.org/maven2/commons-cli/commons-cli/1.4)** < [1.5.0](https://repo1.maven.org/maven2/commons-cli/commons-cli/1.5.0/)
+ - [org.mockito](https://repo1.maven.org/maven2/org/mockito/)
+    - [mockito-core](https://repo1.maven.org/maven2/org/mockito/mockito-core/) **[5.1.1](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.1.1)** < [5.2.0](https://repo1.maven.org/maven2/org/mockito/mockito-core/5.2.0/)
 
 ## Major Updates
  - [org.slf4j](https://repo1.maven.org/maven2/org/slf4j/)
