@@ -1,6 +1,9 @@
 # Target Platform: [platform](https://raw.githubusercontent.com/eclipse-platform/eclipse.platform.releng.aggregator/master/eclipse.platform.releng.prereqs.sdk/eclipse-sdk-prereqs.target)
 
 ## Minor Updates
+ - [net.bytebuddy](https://repo1.maven.org/maven2/net/bytebuddy/)
+    - [byte-buddy](https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/) **[1.14.0](https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.14.0)** < [1.14.1](https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.14.1/)
+    - [byte-buddy-agent](https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/) **[1.14.0](https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.14.0)** < [1.14.1](https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.14.1/)
  - [org.eclipse.jetty](https://repo1.maven.org/maven2/org/eclipse/jetty/)
     - [apache-jsp](https://repo1.maven.org/maven2/org/eclipse/jetty/apache-jsp/) **[10.0.13](https://repo1.maven.org/maven2/org/eclipse/jetty/apache-jsp/10.0.13)** < [10.0.14](https://repo1.maven.org/maven2/org/eclipse/jetty/apache-jsp/10.0.14/)
     - [jetty-http](https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/) **[10.0.13](https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/10.0.13)** < [10.0.14](https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/10.0.14/)
