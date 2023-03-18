@@ -28,8 +28,8 @@
     - [biz.aQute.bndlib](https://repo1.maven.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/) **[6.4.0](https://repo1.maven.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/6.4.0)**
     - [biz.aQute.repository](https://repo1.maven.org/maven2/biz/aQute/bnd/biz.aQute.repository/) **[6.4.0](https://repo1.maven.org/maven2/biz/aQute/bnd/biz.aQute.repository/6.4.0)**
  - [ch.qos.logback](https://repo1.maven.org/maven2/ch/qos/logback/)
-    - [logback-classic](https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/) **[1.4.5](https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.5)**
-    - [logback-core](https://repo1.maven.org/maven2/ch/qos/logback/logback-core/) **[1.4.5](https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.5)**
+    - [logback-classic](https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/) **[1.4.6](https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.6)**
+    - [logback-core](https://repo1.maven.org/maven2/ch/qos/logback/logback-core/) **[1.4.6](https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.6)**
  - [com.fasterxml.jackson.core](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/)
     - [jackson-annotations](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/) **[2.14.2](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.2)**
     - [jackson-core](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/) **[2.14.2](https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.2)**
