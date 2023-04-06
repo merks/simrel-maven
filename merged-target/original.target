@@ -3,7 +3,7 @@
 <target name="MavenSupplement" sequenceNumber="1">
   <locations>
     <location includeDependencyDepth="none" includeDependencyScopes="compile" includeSource="true" missingManifest="error" type="Maven">
-      <feature id="org.eclipse.oomph.maven.all" label="Oomph Maven All" version="1.0.0.qualifier" provider-name="Eclipse Oomph Project">
+      <feature id="org.eclipse.oomph.maven.all" label="Oomph Maven All" version="4.28.0.qualifier" provider-name="Eclipse Oomph Project">
         <description>
 This feature's dependencies are pulled direction from Maven central.
         </description>
@@ -330,13 +330,13 @@ United States, other countries, or both.</license>
         <dependency>
           <groupId>net.bytebuddy</groupId>
           <artifactId>byte-buddy</artifactId>
-          <version>1.14.3</version>
+          <version>1.14.4</version>
           <type>jar</type>
         </dependency>
         <dependency>
           <groupId>net.bytebuddy</groupId>
           <artifactId>byte-buddy-agent</artifactId>
-          <version>1.14.3</version>
+          <version>1.14.4</version>
           <type>jar</type>
         </dependency>
         <dependency>
