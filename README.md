@@ -4,6 +4,7 @@ This repository provides a copy of the [Maven Reports](https://git.eclipse.org/c
 
 The following reports are generated from the target platform files of the corresponding [SimRel](https://ci.eclipse.org/simrel/) participants.
 
+- [egit](egit/REPORT.md)
 - [linuxtools](linuxtools/REPORT.md)
 - [m2e](m2e/REPORT.md)
 - [platform](platform/REPORT.md)
