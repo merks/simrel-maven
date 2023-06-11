@@ -2,4 +2,4 @@
 
 ## Content
  - [org.jruby.joni](https://repo1.maven.org/maven2/org/jruby/joni/)
-    - [joni](https://repo1.maven.org/maven2/org/jruby/joni/joni/) **[2.1.48](https://repo1.maven.org/maven2/org/jruby/joni/joni/2.1.48)**
+    - [joni](https://repo1.maven.org/maven2/org/jruby/joni/joni/) **[2.2.1](https://repo1.maven.org/maven2/org/jruby/joni/joni/2.2.1)**
